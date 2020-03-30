@@ -1,5 +1,8 @@
+THIS REPOSITORY IS ARCHIVED
+===========================
+
 Latch plugin for pGina
-======================
+----------------------
 
 This is a plugin to enable Latch on a Windows machine using pGina
 
